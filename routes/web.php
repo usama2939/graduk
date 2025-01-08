@@ -5,6 +5,24 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/about-us', function () {
+    return view('about-us');
+});
+Route::get('/visa', function () {
+    return view('visa');
+});
+Route::get('/visa-details', function () {
+    return view('visa-details');
+});
+Route::get('/blog', function () {
+    return view('blog-grid');
+});
+Route::get('/blog-details', function () {
+    return view('blog-details');
+});
+Route::get('/contact', function () {
+    return view('contact');
+});
 
 
 $viewFiles = File::allFiles(resource_path('views'));

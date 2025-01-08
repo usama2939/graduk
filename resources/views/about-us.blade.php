@@ -38,8 +38,8 @@
                                     <div class="choose-us__media-thumb-img-img wow fadeInLeft animated" data-wow-delay=".2s">
                                         <img src="{{ asset('./assets/imgs/choose-us/choose-us-left-img.png') }}">                                    </div>
                                 </div>
-                                <div class="choose-us__media-thumb-circle spin">
-                                    <img src="{{ asset('./assets/imgs/choose-us/choose-us-circle-img.png') }}">                                </div>
+                                {{-- <div class="choose-us__media-thumb-circle spin">
+                                    <img src="{{ asset('./assets/imgs/choose-us/choose-us-circle-img.png') }}">                                </div> --}}
                             </div>
                             <div class="choose-us__media-img">
                                 <div class="choose-us__text wow fadeInLeft animated" data-wow-delay=".4s">
@@ -68,9 +68,9 @@
                                         </svg>
                                         Why Choose Us
                                     </h6>
-                                <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".7s">Where Wanderlust Meets Dream Destinations</h2>
+                                <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".7s">Gateway to Endless Opportunities</h2>
                             </div>
-                            <p class="choose-us__content-description wow fadeInLeft animated" data-wow-delay="1s">Et purus duis sollicitudin dignissim habitant. Egestas nulla quis venenatis cras sed eu massa Et purus duis sollicitudin dignissim habitant. Egestas nulla quis venenatis cras sed eu massa Et purus duis sollicitudin dignissim habitant. Egestas nulla</p>
+                            <p class="choose-us__content-description wow fadeInLeft animated" data-wow-delay="1s">With over a decade of expertise, we have helped thousands of students achieve their study abroad dreams.</p>
                             <div class="choose-us__content-wrapper mt-35">
                                 <div class="choose-us__content-wrapper-box wow fadeInLeft animated" data-wow-delay=".8s">
                                     <div class="choose-us__content-wrapper-box-title">
@@ -88,8 +88,8 @@
                                     </div>
                                     <div class="choose-us__content-wrapper-box-list">
                                         <ul>
-                                            <li><i class="fa-solid fa-check"></i>Beyond Border Immigration</li>
-                                            <li><i class="fa-solid fa-check"></i>Worldwide Visa Assistance</li>
+                                            <li><i class="fa-solid fa-check"></i>Simplified visa process</li>
+                                            <li><i class="fa-solid fa-check"></i>Global visa support</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -114,17 +114,17 @@
                                     </div>
                                     <div class="choose-us__content-wrapper-box-list">
                                         <ul>
-                                            <li><i class="fa-solid fa-check"></i>GlobeTrot Visa Services</li>
-                                            <li><i class="fa-solid fa-check"></i>Infinity Visa Solutions</li>
+                                            <li><i class="fa-solid fa-check"></i>Priority visa processing</li>
+                                            <li><i class="fa-solid fa-check"></i>Hassle-free tracking</li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="choose-us__button mt-40">
-                            <div class="choose-us__button-btn wow fadeInLeft animated" data-wow-delay="1s">
+                            {{-- <div class="choose-us__button-btn wow fadeInLeft animated" data-wow-delay="1s">
                                 <a href="story-details">Read More <i class="fa-solid fa-arrow-right"></i></a>
-                            </div>
+                            </div> --}}
                             <div class="choose-us__button-text wow fadeInLeft animated" data-wow-delay="1.1s">
                                 <div class="choose-us__button-text-icon">
                                     <i class="fa-solid fa-phone"></i>
@@ -169,22 +169,22 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="process__item mb-30 wow fadeInLeft animated" data-wow-delay=".4s">
                         <span class="process__item-number">01</span>
-                        <h5 class="mb-20 mt-10">Visa Voyage Agency</h5>
-                        <p>Lorem Ipsum is simply dummy text the printing and typeser</p>
+                        <h5 class="mb-20 mt-10">Student Visa Services</h5>
+                        <p>Application, document checks, and interview prep.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="process__item process__item-2 mb-30 wow fadeInLeft animated" data-wow-delay=".5s">
                         <span class="process__item-number">02</span>
-                        <h5 class="mb-20 mt-10">International Access Visas</h5>
-                        <p>Lorem Ipsum is simply dummy text the printing and typeser</p>
+                        <h5 class="mb-20 mt-10">Documentation Assistance</h5>
+                        <p>Get legal support for documentation.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="process__item mb-30 wow fadeInLeft animated" data-wow-delay=".6s">
                         <span class="process__item-number">03</span>
-                        <h5 class="mb-20 mt-10">Gateway to Global Citizenship</h5>
-                        <p>Lorem Ipsum is simply dummy text the printing and typeser</p>
+                        <h5 class="mb-20 mt-10">Counseling</h5>
+                        <p>Personalized guidance for country-specific rules.</p>
                     </div>
                 </div>
             </div>
@@ -218,7 +218,7 @@
                                 </svg>
                             </div>
                             <h5 class=" wow fadeInLeft animated" data-wow-delay=".3s">Get our best offers quickly</h5>
-                            <p class=" wow fadeInLeft animated" data-wow-delay=".4s">Lorem Ipsum is simply dummy text the printing and typese <br> Lorem Ipsum has been the industry's standard dummy</p>
+                            <p class=" wow fadeInLeft animated" data-wow-delay=".4s">Simplify your study abroad journey with exclusive visa services<br> and special offers, ensuring a stress-free process<br> from application to approval</p>
                             <a href="contact" class="rr-btn2 mt-25 wow fadeInLeft animated" data-wow-delay=".5s">Contact us <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                         <div class="faq__content-right-img  wow fadeInLeft animated" data-wow-delay=".6s">
@@ -227,26 +227,26 @@
                     <div class="row counter__bg mt-30 mb-minus-20">
                         <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                             <div class="counter__item mb-20">
-                                <h3 class="counter__item-title"><span class="odometer" data-count="10">0</span>k+</h3>
-                                <p>Complete project</p>
+                                <h3 class="counter__item-title"><span class="odometer" data-count="5">0</span>k+</h3>
+                                <p>Visa Applications</p>
                             </div>
                          </div>
                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                             <div class="counter__item mb-20">
                                 <h3 class="counter__item-title"><span class="odometer" data-count="20">0</span>+</h3>
-                                <p>Team member</p>
+                                <p>Countries Covered</p>
                             </div>
                          </div>
                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                             <div class="counter__item mb-2">
                                 <h3 class="counter__item-title"><span class="odometer" data-count="5">0</span>k+</h3>
-                                <p>Winning award</p>
+                                <p>Partnerships</p>
                             </div>
                          </div>
                          <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                             <div class="counter__item mb-20">
                                 <h3 class="counter__item-title"><span class="odometer" data-count="100">0</span>+</h3>
-                                <p>Complete project</p>
+                                <p>Immigration Experts</p>
                             </div>
                          </div>
                     </div>
@@ -258,7 +258,7 @@
    </section>
 
     <!-- Brand area start -->
-    <section class="main-brand__area section-space-bottom">
+    {{-- <section class="main-brand__area section-space-bottom">
         <div class="brand__area">
             <div class="container">
                 <div class="row">
@@ -306,7 +306,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- Brand area end -->
 
     <!--contact-section-->

@@ -77,7 +77,7 @@
                                 <nav id="mobile-menu">
                                     <ul>
                                         <li class="active">
-                                            <a href="javascript:void(0)">Home</a>
+                                            <a href="/">Home</a>
                                             {{-- <ul class="submenu">
                                                 <li><a href="/">Home 1</a></li>
                                                 <li><a href="index-2">Home 2</a></li>
@@ -96,15 +96,15 @@
                                                 <li><a href="story-details">Story Details</a></li>
                                             </ul>
                                         </li> --}}
-                                        <li class="has-dropdown">
-                                            <a href="service">Visa</a>
-                                            <ul class="submenu">
+                                        <li class="">
+                                            <a href="visa">Visa</a>
+                                            {{-- <ul class="submenu">
                                                 <li><a href="visa">Visa</a></li>
                                                 <li><a href="visa-details">Visa Details</a></li>
-                                            </ul>
+                                            </ul> --}}
                                         </li>
                                         <li class="">
-                                            <a href="">blog</a>
+                                            <a href="blog">blog</a>
                                             {{-- <ul class="submenu">
                                                 <li><a href="blog-grid">blog grid</a></li>
                                                 <li><a href="blog-details">blog details</a></li>
