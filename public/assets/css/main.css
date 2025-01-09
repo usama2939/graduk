@@ -6348,12 +6348,12 @@ body .ui-tooltip {
 }
 @media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
   .header__logo {
-    max-width: 150px;
+    max-width: 90px;
   }
 }
 @media (max-width:450px) {
   .header__logo {
-    max-width: 150px;
+    max-width: 75px;
   }
 }
 .header__logo.header__logo-3 {
@@ -12179,7 +12179,7 @@ body .ui-tooltip {
   font-size: 22px;
   font-style: normal;
   border-radius: 20px;
-  border: 1px solid #83CD20;
+  border: 1px solid #d32644;
   transition: 0.3s;
 }
 

@@ -46,7 +46,7 @@
                 </div>
                 <div class="offcanvas__btn d-sm-none">
                     <div class="header__btn-wrap">
-                        <a class="rr-btn btn-hover-white" href="contact">Purchase Now<span><i class="fa-regular fa-angle-right"></i></span></a>
+                        <a class="rr-btn btn-hover-white" href="contact">Get An Appointment<span><i class="fa-regular fa-angle-right"></i></span></a>
                     </div>
                 </div>
             </div>
