@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Grad UK - international Education & Career Advisors!!!</title>
+    <title>Grad UK - International Education & Career Advisors!!!</title>
     <meta name="description" content="">
     @include('includes/head')
 </head>
