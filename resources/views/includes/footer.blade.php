@@ -165,3 +165,4 @@
 <script src="{{ asset('assets/js/plugins/isotope-docs.min.js') }}"></script>
 <script src="{{ asset('assets/js/vendor/ajax-form.js') }}"></script>
 <script src="{{ asset('assets/js/main.js') }}"></script>
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
