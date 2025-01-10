@@ -46,7 +46,7 @@
                 </div>
                 <div class="offcanvas__btn d-sm-none">
                     <div class="header__btn-wrap">
-                        <a class="rr-btn btn-hover-white" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/graduk879'});return false;">Get An Appointment<span><i class="fa-regular fa-angle-right"></i></span></a>
+                        <a class="rr-btn btn-hover-white" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/graduk'});return false;">Get An Appointment<span><i class="fa-regular fa-angle-right"></i></span></a>
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@
                     <div class="header__right">
                         <div class="header__action d-flex align-items-center">
                             <div class="header__btn-wrap d-none d-sm-inline-flex">
-                                <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/graduk879'});return false;" class="rr-btn">Get An Appointment <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/graduk'});return false;" class="rr-btn">Get An Appointment <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="header__hamburger ml-20 d-xl-none">
                                 <div class="sidebar__toggle">

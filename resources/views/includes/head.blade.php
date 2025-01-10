@@ -14,3 +14,5 @@
 <link rel="stylesheet" href="{{ asset('assets/css/vendor/spacing.css') }}">
 <link rel="stylesheet" href="{{ asset('assets/css/vendor/custom-font.css') }}">
 <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}">
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+
