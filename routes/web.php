@@ -24,6 +24,11 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::middleware(['auth', 'is_admin'])->prefix('admin')->group(function () {
+    Route::get('/dashboard', [AdminController::class, 'index'])->name('admin.dashboard');
+});
+
+
 
 $viewFiles = File::allFiles(resource_path('views'));
 // Loop through each file in the views directory
@@ -47,3 +52,7 @@ foreach ($viewFiles as $viewFile) {
     // Create a route for each view file, using the file name without extension
     Route::view( $viewName, $viewName);
 }
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

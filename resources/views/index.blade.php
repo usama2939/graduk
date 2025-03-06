@@ -15,9 +15,9 @@
                     <div class="row align-items-center">
                         <div class="col-md-6 ">
                             <div class="banner-home__content p-relative">
-                                <h1 class="title mb-xs-10 wow fadeInLeft animated" data-wow-delay=".4s">Visa Made Easy Dreams Made Possible</h1>
+                                <h1 class="title mb-xs-10 wow fadeInLeft animated" data-wow-delay=".4s">Unlock Global Career Opportunities</h1>
                                 <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
-                                    <a href="about-us" class="rr-btn btn-transparent wow fadeInLeft animated" data-wow-delay=".6s">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="about-us" class="rr-btn btn-transparent wow fadeInLeft animated" data-wow-delay=".6s">Get Started <i class="fa-solid fa-arrow-right"></i></a>
                                     {{-- <a href="https://www.youtube.com/watch?v=_ZmB5RdUgPQ" class="popup-video zooming banner-video-button" data-effect="mfp-move-from-top vertical-middle">
                                         <svg width="26" height="28" viewBox="0 0 26 28" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <g filter="url(#filter0_d_836_9)">
@@ -79,8 +79,8 @@
                                 </svg>
                             </div>
                             <div class="service__item-content">
-                                <h4>Personalized Visa Guidance</h4>
-                                <p>Get step-by-step assistance tailored to your study destination and course.</p>
+                                <h4>Personalized Career Guidance</h4>
+                                <p>We provide tailored support to help you navigate your international career journey.</p>
                             </div>
                         </div>
                     </div>
@@ -96,8 +96,8 @@
                                 </svg>
                             </div>
                             <div class="service__item-content">
-                                <h4>Trusted Visa Partners</h4>
-                                <p>We work with accredited consultants to ensure a smooth visa process.</p>
+                                <h4>Trusted Global Network</h4>
+                                <p>Partnering with top organizations and recruiters to connect you with the best opportunities.</p>
                             </div>
                         </div>
                     </div>
@@ -115,8 +115,8 @@
                                 </svg>
                             </div>
                             <div class="service__item-content">
-                                <h4>Stress-Free Processing</h4>
-                                <p>Focus on your education while we handle the paperwork and follow-ups.</p>
+                                <h4>Streamlined Recruitment Process</h4>
+                                <p>From application to onboarding, we ensure a hassle-free recruitment experience.</p>
                             </div>
                         </div>
                     </div>
@@ -168,9 +168,9 @@
                                         </svg>
                                         Why Choose Us
                                     </h6>
-                                <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Gateway to Endless Opportunities</h2>
+                                <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Gateway to Global Employment</h2>
                             </div>
-                            <p class="choose-us__content-description wow fadeInLeft animated" data-wow-delay=".4s">With over a decade of expertise, we have helped thousands of students achieve their study abroad dreams.</p>
+                            <p class="choose-us__content-description wow fadeInLeft animated" data-wow-delay=".4s">Helping Professionals and Graduates Secure International Job Opportunities</p>
                             <div class="choose-us__content-wrapper mt-35">
                                 <div class="choose-us__content-wrapper-box wow fadeInLeft animated" data-wow-delay=".5s">
                                     <div class="choose-us__content-wrapper-box-title">
@@ -184,12 +184,11 @@
                                                 <path d="M12.1441 20.9755H17.8544C17.9631 20.9755 18.0674 20.9323 18.1443 20.8553C18.2212 20.7784 18.2645 20.6742 18.2645 20.5654V16.5353C18.2645 16.4266 18.2212 16.3223 18.1443 16.2454C18.0674 16.1685 17.9631 16.1252 17.8544 16.1252H17.0809L16.8302 14.9645C16.8104 14.8728 16.7598 14.7906 16.6868 14.7316C16.6138 14.6727 16.5228 14.6406 16.4289 14.6406H13.5695C13.4758 14.6406 13.385 14.6728 13.312 14.7316C13.2391 14.7904 13.1886 14.8725 13.1687 14.9641L12.918 16.1247H12.1445C12.0358 16.1248 11.9315 16.168 11.8546 16.2449C11.7777 16.3218 11.7344 16.4261 11.7344 16.5348V20.5654C11.7344 20.6741 11.7776 20.7783 11.8544 20.8552C11.9312 20.9321 12.0354 20.9754 12.1441 20.9755ZM12.5542 20.1552V18.6679H13.6323V18.7091C13.6323 18.8179 13.6756 18.9222 13.7525 18.9992C13.8294 19.0761 13.9337 19.1193 14.0425 19.1193C14.1513 19.1193 14.2556 19.0761 14.3325 18.9992C14.4094 18.9222 14.4527 18.8179 14.4527 18.7091V18.6679H15.5448V18.7091C15.5448 18.8179 15.5881 18.9222 15.665 18.9992C15.7419 19.0761 15.8462 19.1193 15.955 19.1193C16.0638 19.1193 16.1681 19.0761 16.245 18.9992C16.3219 18.9222 16.3652 18.8179 16.3652 18.7091V18.6679H17.4433V20.1552H12.5542ZM13.9007 15.4609H16.0975L16.2412 16.1247H13.757L13.9007 15.4609ZM16.7484 16.945H17.4442V17.8471H12.5542V16.9455L16.7484 16.945Z" fill="white"/>
                                             </svg>                                        
                                         </div>
-                                        <h3>Passport Plus</h3>
+                                        <h3>Visa & Work Permits</h3>
                                     </div>
                                     <div class="choose-us__content-wrapper-box-list">
                                         <ul>
-                                            <li><i class="fa-solid fa-check"></i> Simplified visa process</li>
-                                            <li><i class="fa-solid fa-check"></i>Global visa support</li>
+                                            <li><i class="fa-solid fa-check"></i> Expert assistance in securing work visas and permits for various countries.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -210,12 +209,36 @@
                                                 </defs>
                                             </svg>                                      
                                         </div>
-                                        <h3>Global Entry</h3>
+                                        <h3>Job Placement Support</h3>
                                     </div>
                                     <div class="choose-us__content-wrapper-box-list">
                                         <ul>
-                                            <li><i class="fa-solid fa-check"></i>Priority visa processing</li>
-                                            <li><i class="fa-solid fa-check"></i>Hassle-free tracking</li>
+                                            <li><i class="fa-solid fa-check"></i>Connecting skilled professionals with top employers worldwide.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="choose-us__content-wrapper-box wow fadeInLeft animated" data-wow-delay=".6s">
+                                    <div class="choose-us__content-wrapper-box-title">
+                                        <div class="choose-us__content-wrapper-box-title-icon">
+                                            <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_3761_459)">
+                                                <path d="M29.5908 23.939H27.042V10.8103C27.0421 10.7396 27.024 10.6701 26.9893 10.6085C26.9546 10.5469 26.9046 10.4953 26.8442 10.4587L15.2133 3.42253C15.1493 3.38377 15.0758 3.36328 15.001 3.36328C14.9261 3.36328 14.8527 3.38377 14.7886 3.42253L3.15777 10.4594C3.09731 10.496 3.04732 10.5476 3.01266 10.6092C2.978 10.6708 2.95985 10.7403 2.95996 10.811V23.9397H0.411133C0.357231 23.9397 0.303858 23.9503 0.254065 23.971C0.204272 23.9916 0.159036 24.0219 0.120943 24.06C0.0828503 24.0982 0.0526482 24.1434 0.0320635 24.1932C0.0114788 24.2431 0.000915228 24.2964 0.00097683 24.3503V26.2253C0.00097683 26.3341 0.0441896 26.4384 0.121109 26.5154C0.198028 26.5923 0.302353 26.6355 0.411133 26.6355H29.5908C29.6996 26.6355 29.8039 26.5923 29.8808 26.5154C29.9578 26.4384 30.001 26.3341 30.001 26.2253V24.3503C30.0011 24.2964 29.9906 24.2429 29.9701 24.193C29.9495 24.1431 29.9194 24.0978 29.8813 24.0596C29.8432 24.0213 29.7979 23.991 29.7481 23.9703C29.6982 23.9497 29.6448 23.939 29.5908 23.939ZM3.78027 19.78H11.0166V21.6295H3.78027V19.78ZM11.8369 15.475C11.8375 14.9624 12.0414 14.4709 12.4039 14.1084C12.7664 13.7459 13.2579 13.542 13.7705 13.5414H14.5908V17.7283C14.5903 18.8399 14.3429 19.9375 13.8667 20.942C13.3905 21.9464 12.6972 22.8326 11.8369 23.5366V15.475ZM26.2217 21.6299H18.9854V19.78H26.2217V21.6299ZM18.165 23.5366C17.3047 22.8326 16.6114 21.9465 16.1352 20.942C15.6589 19.9376 15.4116 18.8399 15.4111 17.7283V13.5414H16.2314C16.7441 13.542 17.2356 13.7459 17.5981 14.1084C17.9606 14.4709 18.1645 14.9624 18.165 15.475V23.5366ZM12.7411 23.8364C13.7807 22.8747 14.5584 21.6643 15.001 20.3191C15.4611 21.7117 16.2771 22.9599 17.3682 23.94H12.6338C12.6706 23.905 12.7041 23.8701 12.7411 23.8364ZM18.9854 22.4503H26.2217V23.939H18.9854V22.4503ZM15.001 4.25268L26.2217 11.0416V18.9597H18.9854V15.475C18.9845 14.7449 18.6941 14.045 18.1778 13.5287C17.6615 13.0124 16.9616 12.722 16.2314 12.7211H13.7705C13.0404 12.7219 12.3404 13.0123 11.8241 13.5286C11.3078 14.0449 11.0174 14.7449 11.0166 15.475V18.9597H3.78027V11.0416L15.001 4.25268ZM3.78027 22.4503H11.0166V23.939H3.78027V22.4503ZM29.1807 25.814H0.821289V24.7593H29.1807V25.814Z" fill="white"/>
+                                                <path d="M7.39805 17.5192C7.78702 17.5193 8.16727 17.404 8.49072 17.1879C8.81416 16.9718 9.06627 16.6647 9.21515 16.3053C9.36404 15.946 9.40302 15.5506 9.32716 15.1691C9.25131 14.7875 9.06402 14.4371 8.78899 14.162C8.51396 13.887 8.16354 13.6996 7.78204 13.6237C7.40054 13.5478 7.0051 13.5868 6.64573 13.7356C6.28636 13.8845 5.9792 14.1365 5.7631 14.4599C5.54699 14.7834 5.43164 15.1636 5.43164 15.5526C5.4322 16.074 5.63954 16.5738 6.00819 16.9425C6.37683 17.3112 6.87667 17.5186 7.39805 17.5192ZM7.39805 14.4063C7.62478 14.4062 7.84643 14.4734 8.03498 14.5993C8.22352 14.7253 8.37048 14.9043 8.45728 15.1137C8.54408 15.3232 8.56682 15.5537 8.52261 15.7761C8.47841 15.9985 8.36925 16.2027 8.20894 16.3631C8.04863 16.5234 7.84438 16.6326 7.622 16.6769C7.39963 16.7211 7.16913 16.6984 6.95965 16.6117C6.75018 16.5249 6.57113 16.378 6.44516 16.1895C6.31919 16.001 6.25195 15.7793 6.25195 15.5526C6.25251 15.2488 6.37343 14.9576 6.58824 14.7427C6.80304 14.5279 7.09423 14.4069 7.39805 14.4063Z" fill="white"/>
+                                                <path d="M15.0008 11.4333C15.3898 11.4333 15.7701 11.3179 16.0935 11.1018C16.4169 10.8857 16.669 10.5785 16.8178 10.2191C16.9667 9.85968 17.0056 9.46422 16.9296 9.08271C16.8537 8.7012 16.6663 8.35078 16.3912 8.07577C16.1161 7.80076 15.7656 7.61351 15.3841 7.5377C15.0025 7.4619 14.6071 7.50095 14.2477 7.6499C13.8884 7.79886 13.5813 8.05104 13.3653 8.37455C13.1493 8.69805 13.034 9.07835 13.0342 9.46734C13.0349 9.98864 13.2424 10.4884 13.6111 10.8569C13.9797 11.2254 14.4795 11.4327 15.0008 11.4333ZM15.0008 8.32031C15.2275 8.32031 15.4491 8.38753 15.6376 8.51346C15.8261 8.63938 15.973 8.81838 16.0598 9.0278C16.1466 9.23722 16.1693 9.46767 16.1252 9.69002C16.081 9.91237 15.9719 10.1166 15.8116 10.277C15.6514 10.4373 15.4472 10.5465 15.2249 10.5909C15.0026 10.6352 14.7721 10.6126 14.5626 10.5259C14.3532 10.4393 14.1741 10.2924 14.048 10.104C13.922 9.9156 13.8546 9.69404 13.8545 9.46734C13.8549 9.16337 13.9757 8.87194 14.1906 8.65693C14.4055 8.44192 14.6968 8.32087 15.0008 8.32031Z" fill="white"/>
+                                                <path d="M22.6031 17.5192C22.9921 17.5193 23.3724 17.404 23.6958 17.1879C24.0192 16.9718 24.2713 16.6647 24.4202 16.3053C24.5691 15.946 24.6081 15.5506 24.5322 15.1691C24.4564 14.7875 24.2691 14.4371 23.9941 14.162C23.719 13.887 23.3686 13.6996 22.9871 13.6237C22.6056 13.5478 22.2102 13.5868 21.8508 13.7356C21.4914 13.8845 21.1843 14.1365 20.9682 14.4599C20.7521 14.7834 20.6367 15.1636 20.6367 15.5526C20.6373 16.074 20.8446 16.5738 21.2133 16.9425C21.5819 17.3112 22.0818 17.5186 22.6031 17.5192ZM22.6031 14.4063C22.8299 14.4062 23.0515 14.4734 23.2401 14.5993C23.4286 14.7253 23.5756 14.9043 23.6624 15.1137C23.7492 15.3232 23.7719 15.5537 23.7277 15.7761C23.6835 15.9985 23.5743 16.2027 23.414 16.3631C23.2537 16.5234 23.0495 16.6326 22.8271 16.6769C22.6047 16.7211 22.3742 16.6984 22.1647 16.6117C21.9553 16.5249 21.7762 16.378 21.6502 16.1895C21.5243 16.001 21.457 15.7793 21.457 15.5526C21.4576 15.2488 21.5785 14.9576 21.7933 14.7427C22.0081 14.5279 22.2993 14.4069 22.6031 14.4063Z" fill="white"/>
+                                                </g>
+                                                <defs>
+                                                <clipPath id="clip0_3761_459">
+                                                <rect width="30" height="30" fill="white" transform="translate(0.000976562)"/>
+                                                </clipPath>
+                                                </defs>
+                                            </svg>                                      
+                                        </div>
+                                        <h3>Resume & Interview Coaching</h3>
+                                    </div>
+                                    <div class="choose-us__content-wrapper-box-list">
+                                        <ul>
+                                            <li><i class="fa-solid fa-check"></i>Enhance your job application and ace your interviews with expert training.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -310,8 +333,8 @@
                             </clipPath>
                             </defs>
                             </svg>
-                            Our Countries</h6>
-                        <h2 class="section-slider-title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Making Memories Around <br> World Unforgettable</h2>
+                            Build Your Future Across the World</h6>
+                        <h2 class="section-slider-title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Explore Career Opportunities <br>in Top Global Destinations</h2>
                     </div>
                     <div class="section-slider-title-button">
                         <div class="d-none d-md-block">    
@@ -655,9 +678,9 @@
                         <rect width="20" height="20" fill="white" transform="translate(0.5 0.0390625)"/>
                         </clipPath>
                         </defs>
-                    </svg>Visa Category
+                    </svg>DIVERSE EDUCATION & CAREER PATHWAYS
                     </h6>
-                    <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Seeking Adventure Thrills <br> and Academic Success</h2>
+                    <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Discover Global Opportunities for<br> Your Academic & Professional Growth</h2>
                 </div>
             </div>
             <div class="row mb-minus-30">
@@ -666,8 +689,8 @@
                         <div class="visa__item-media">
                             <img src="{{ asset('./assets/imgs/visa/visa-card-img1.png') }}">                        </div>
                         <div class="visa__item-content">
-                            <h5>Student Visa</h5>
-                            <p>For students enrolling in full-time academic programs at universities abroad.</p>
+                            <h5>Study Abroad Consultation                            </h5>
+                            <p>Expert guidance on choosing the right universities, programs, and destinations for your academic journey.</p>
                             <div class="visa__item-content-button mt-30 d-flex justify-content-between">
                                 <a href="visa-details"><i class="fa-solid fa-arrow-right"></i></a>
                                 <img src="{{ asset('./assets/imgs/visa/visa-card-right-icon1.png') }}">                            </div>
@@ -679,8 +702,8 @@
                         <div class="visa__item-media">
                             <img src="{{ asset('./assets/imgs/visa/visa-card-img4.png') }}">                        </div>
                         <div class="visa__item-content">
-                            <h5>Exchange Programs</h5>
-                            <p>For cultural and academic exchange, typically lasting one semester to one academic year.</p>
+                            <h5>International Internship Programs                            </h5>
+                            <p>Gain valuable work experience through internships with top companies worldwide.                            </p>
                             <div class="visa__item-content-button mt-30 d-flex justify-content-between">
                                 <a href="visa-details"><i class="fa-solid fa-arrow-right"></i></a>
                                 <img src="{{ asset('./assets/imgs/visa/visa-card-right-icon2.png') }}">                            </div>
@@ -692,8 +715,8 @@
                         <div class="visa__item-media">
                             <img src="{{ asset('./assets/imgs/visa/visa-card-img3.png') }}">                        </div>
                         <div class="visa__item-content">
-                            <h5>Short-Term Study</h5>
-                            <p>For language certifications or short courses lasting from a few weeks to a few months.</p>
+                            <h5>Skill Development & Certification                            </h5>
+                            <p>Enroll in specialized courses and professional certifications to enhance your global employability.                            </p>
                             <div class="visa__item-content-button mt-30 d-flex justify-content-between">
                                 <a href="visa-details"><i class="fa-solid fa-arrow-right"></i></a>
                                 <img src="{{ asset('./assets/imgs/visa/visa-card-right-icon3.png') }}">                            </div>
@@ -705,8 +728,8 @@
                         <div class="visa__item-media">
                             <img src="{{ asset('./assets/imgs/visa/visa-card-img2.png') }}">                        </div>
                         <div class="visa__item-content">
-                            <h5>Post-Study Work Visa</h5>
-                            <p>Allows graduates to gain work experience in their study country after completing their degree.</p>
+                            <h5>Post-Graduation Career Support                            </h5>
+                            <p>Seamless transition from education to employment with job placement assistance and career mentoring.                            </p>
                             <div class="visa__item-content-button mt-30 d-flex justify-content-between">
                                 <a href="visa-details"><i class="fa-solid fa-arrow-right"></i></a>
                                 <img src="{{ asset('./assets/imgs/visa/visa-card-right-icon4.png') }}">                            </div>
@@ -838,8 +861,8 @@
                                         </defs>
                                     </svg>
                                 </div>
-                                <h5 class=" wow fadeInLeft animated" data-wow-delay=".3s">Get our best offers quickly</h5>
-                                <p class=" wow fadeInLeft animated" data-wow-delay=".4s">Simplify your study abroad journey with exclusive visa services<br> and special offers, ensuring a stress-free process<br> from application to approval</p>
+                                <h5 class=" wow fadeInLeft animated" data-wow-delay=".3s">Guiding You Every Step of the Way</h5>
+                                <p class=" wow fadeInLeft animated" data-wow-delay=".4s">Expert Support, Reliable Connections, and Proven Success.</p>
                                 <a href="contact" class="rr-btn2 mt-25 wow fadeInLeft animated" data-wow-delay=".5s">Contact us <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                             <div class="faq__content-right-img  wow fadeInLeft animated" data-wow-delay=".6s">
@@ -849,7 +872,7 @@
                             <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                                 <div class="counter__item mb-20">
                                     <h3 class="counter__item-title"><span class="odometer" data-count="5">0</span>k+</h3>
-                                    <p>Visa Applications</p>
+                                    <p>Successful Placements</p>
                                 </div>
                              </div>
                              <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
@@ -867,7 +890,7 @@
                              <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                                 <div class="counter__item mb-20">
                                     <h3 class="counter__item-title"><span class="odometer" data-count="100">0</span>+</h3>
-                                    <p>Immigration Experts</p>
+                                    <p>Global Employers</p>
                                 </div>
                              </div>
                         </div>
@@ -1125,13 +1148,13 @@
                                             <path d="M36.8723 41.0882C36.493 40.7847 36.4172 40.4054 36.5689 39.7605L43.8519 14.5354C43.9657 14.0423 44.383 13.7009 44.914 13.7009H62.0595C62.7423 13.7009 63.0078 14.0044 63.0078 14.6492V17.2286C62.9699 17.7218 62.8181 18.177 62.5526 18.5563L43.5105 43.6676C43.2071 44.1228 42.5622 44.2745 42.0691 43.971L36.8723 41.0882ZM10.1679 41.0882C9.78857 40.7847 9.71272 40.4054 9.86444 39.7605L17.1475 14.5354C17.2613 14.0044 17.7544 13.663 18.2855 13.7009H35.3551C36.0378 13.7009 36.3034 14.0044 36.3034 14.6492V17.2286C36.2654 17.7218 36.1137 18.177 35.8482 18.5563L16.8819 43.6676C16.5785 44.1228 15.9336 44.2745 15.4405 43.9331L10.1679 41.0882Z" fill="white"/>
                                         </svg> 
                                     </div>
-                                    <p>We have been operating for over an providin top-notch services to our clients and build strong track record in the industry.We have been operating for over a decad providi ina top-notch  We have been operating</p>
+                                    <p>Finding a job abroad seemed impossible until I found this platform. They guided me from start to finish, making the process seamless.</p>
                                     <div class="testimonial__content-text-title">
                                         <div class="testimonial__content-text-title-img">
                                             <img src="{{ asset('./assets/imgs/testimonial/testimonial-title-img.png') }}">                                        </div>
                                         <div class="testimonial__content-text-title-name">
-                                            <h6>Albert Flores</h6>
-                                            <span>Web Designer</span>
+                                            <h6>John Blake</h6>
+                                            <span>IT Specialist</span>
                                         </div>
                                     </div>
                                 </div>
@@ -1154,7 +1177,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
+                            {{-- <div class="swiper-slide">
                                 <div class="testimonial__content-text ">
                                     <div class="testimonial__content-text-icon">
                                         <svg width="73" height="56" viewBox="0 0 73 56" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1171,7 +1194,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <div class="testimonial__content-button d-flex">
                             <div class="testimonial__content-button-border"></div>
@@ -1203,31 +1226,31 @@
                                 </clipPath>
                                 </defs>
                             </svg>
-                            Process Overview
+                            Unlock Global Career Opportunities
                         </h6>
-                        <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Unforgettable Getaways <br> Escaping Routine </h2>
+                        <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Seamless Recruitment Process<br> for Your Global Career</h2>
                     </div>
                 </div>
                 <div class="row mb-minus-30">
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="process__item mb-30 wow fadeInLeft animated" data-wow-delay=".4s">
                             <span class="process__item-number">01</span>
-                            <h5 class="mb-20 mt-10">Student Visa Services</h5>
-                            <p>Application, document checks, and interview prep.</p>
+                            <h5 class="mb-20 mt-10">Job Application Assistance</h5>
+                            <p>Get expert guidance in crafting a compelling job application, resume, and cover letter.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="process__item process__item-2 mb-30 wow fadeInLeft animated" data-wow-delay=".5s">
                             <span class="process__item-number">02</span>
-                            <h5 class="mb-20 mt-10">Documentation Assistance</h5>
-                            <p>Get legal support for documentation.</p>
+                            <h5 class="mb-20 mt-10">Work Visa & Documentation Support</h5>
+                            <p>We handle visa applications and necessary documentation to ensure a smooth process.</p>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="process__item mb-30 wow fadeInLeft animated" data-wow-delay=".6s">
                             <span class="process__item-number">03</span>
-                            <h5 class="mb-20 mt-10">Counseling</h5>
-                            <p>Personalized guidance for country-specific rules.</p>
+                            <h5 class="mb-20 mt-10">Career Counseling & Interview Preparation</h5>
+                            <p>Receive personalized coaching to ace your job interviews and secure your dream role abroad.</p>
                         </div>
                     </div>
                 </div>
