@@ -10517,6 +10517,7 @@ body .ui-tooltip {
 }
 .footer__logo img {
   max-width: 188px;
+  filter: invert(0.5);
 }
 .footer__content p {
   color: var(--rr-common-white);

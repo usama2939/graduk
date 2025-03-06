@@ -1075,7 +1075,7 @@
                             </svg>
                             Our Experts
                         </h6>
-                        <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Meet Our Visa Experts <br> Guiding Your Academic Journey </h2>
+                        <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Meet Our <br>Global Recruitment Specialists                        </h2>
                     </div>
                 </div>
                 <div class="row align-items-center">
