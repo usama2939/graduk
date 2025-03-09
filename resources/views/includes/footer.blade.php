@@ -5,7 +5,7 @@
 <footer>
     <section class="footer__area-common dark-green overflow-hidden position-relative z-1"
      data-background="assets/imgs/footer/footer1-bg-img.png">
-        <div class="footer__border-bottom">
+        <div class="footer__border-bottom d-none">
             <div class="container">
                 <div class="footer-top d-flex justify-content-between pt-50 pb-50">
                     <div class="footer-top-left d-flex wow fadeInLeft animated" data-wow-delay=".2s">
@@ -145,6 +145,52 @@
 </footer>
 <!-- Footer area end -->
 
+{{-- modal sectio --}}
+
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">Please Select any one</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="main_body">
+            <a href="/internation-recurement">
+            <div class="main_box_modal">
+                <div class="modal-img">
+                    <img src="{{asset('/assets/imgs/visa/visa-card-img1.png')}}" alt="">
+                </div>
+                <div class="content-modall">
+                    <h4>International Students Recruitment</h4>
+                </div>
+            </div></a>
+            <a href="/global-engagement">
+            <div class="main_box_modal">
+                <div class="modal-img">
+                    <img src="{{asset('/assets/imgs/visa/visa-card-img1.png')}}" alt="">
+                </div>
+                <div class="content-modall">
+                    <h4>Global Engagement in Higher Education</h4>
+                </div>
+            </div></a>
+            <a href="/language-assesment">
+            <div class="main_box_modal">
+                <div class="modal-img">
+                    <img src="{{asset('/assets/imgs/visa/visa-card-img1.png')}}" alt="">
+                </div>
+                <div class="content-modall">
+                    <h4>Language Assessment <br> &nbsp; </h4>
+                </div>
+            </div></a>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+{{-- end of modal section   --}}
 
 
 <!-- JS here -->
@@ -167,3 +213,13 @@
 <script src="{{ asset('assets/js/vendor/ajax-form.js') }}"></script>
 <script src="{{ asset('assets/js/main.js') }}"></script>
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+      setTimeout(function() {
+        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'));
+        myModal.show();
+      }, 5000);
+    });
+  </script>

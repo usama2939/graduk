@@ -17,7 +17,7 @@
             },
             "time": "2022-02-07T20:33:09+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"

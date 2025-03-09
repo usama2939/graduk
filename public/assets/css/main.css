@@ -19774,3 +19774,52 @@ START: Slider CSS
 }
 
 /*# sourceMappingURL=main.css.map */
+
+
+
+
+/* new modal css  */
+
+div#exampleModal .modal-dialog {
+  max-width: 1000px;
+  width: 100%;
+  top: 30%;
+}
+
+.modal-body .main_body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px 20px 50px 20px;
+}
+
+div#exampleModal .modal-dialog .modal-content {
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.modal-body .main_body a {
+  flex: 0 0 30%;
+  border: 1px solid gray;
+  padding: 15px 5px 15px 5px;
+  text-align: center;
+  border-radius: 19px;
+}
+
+.modal-body .main_body  .main_box_modal .modal-img img {
+  width: 90%;
+  height: 150px;
+  border-radius: 20px;
+}
+
+.modal-body .main_body .main_box_modal .content-modall h4 {
+  font-size: 16px;
+  text-align: center;
+  line-height: normal;
+  margin: 15px 0 0 0;
+  font-weight: 500;
+
+}
+.modal-header h1#exampleModalLabel {
+  font-size: 22px !important;
+}

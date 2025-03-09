@@ -5,6 +5,15 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/internation-recurement', function () {
+    return view('internation-recurement');
+});
+Route::get('/global-engagement', function () {
+    return view('global-engagement');
+});
+Route::get('/language-assesment', function () {
+    return view('language-assesment');
+});
 Route::get('/about-us', function () {
     return view('about-us');
 });
