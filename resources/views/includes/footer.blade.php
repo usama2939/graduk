@@ -159,7 +159,7 @@
             <a href="/internation-recurement">
             <div class="main_box_modal">
                 <div class="modal-img">
-                    <img src="{{asset('/assets/imgs/visa/visa-card-img1.png')}}" alt="">
+                    <img src="{{asset('/assets/imgs/modal/internation_modal1.jpg')}}" alt="">
                 </div>
                 <div class="content-modall">
                     <h4>International Students Recruitment</h4>
@@ -168,7 +168,7 @@
             <a href="/global-engagement">
             <div class="main_box_modal">
                 <div class="modal-img">
-                    <img src="{{asset('/assets/imgs/visa/visa-card-img1.png')}}" alt="">
+                    <img src="{{asset('/assets/imgs/modal/internation_modal2.jpg')}}" alt="">
                 </div>
                 <div class="content-modall">
                     <h4>Global Engagement in Higher Education</h4>
@@ -177,7 +177,7 @@
             <a href="/language-assesment">
             <div class="main_box_modal">
                 <div class="modal-img">
-                    <img src="{{asset('/assets/imgs/visa/visa-card-img1.png')}}" alt="">
+                    <img src="{{asset('/assets/imgs/modal/internation_modal3.jpg')}}" alt="">
                 </div>
                 <div class="content-modall">
                     <h4>Language Assessment <br> &nbsp; </h4>
