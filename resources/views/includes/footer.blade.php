@@ -214,12 +214,3 @@
 <script src="{{ asset('assets/js/main.js') }}"></script>
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 
-
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-      setTimeout(function() {
-        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'));
-        myModal.show();
-      }, 5000);
-    });
-  </script>

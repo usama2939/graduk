@@ -1415,5 +1415,14 @@
         </div>
     </section> --}}
     
+    
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+      setTimeout(function() {
+        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'));
+        myModal.show();
+      }, 5000);
+    });
+  </script>
 </main>
 @endsection

@@ -19823,3 +19823,11 @@ div#exampleModal .modal-dialog .modal-content {
 .modal-header h1#exampleModalLabel {
   font-size: 22px !important;
 }
+
+
+.modal.fade.show {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+}
