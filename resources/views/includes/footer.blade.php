@@ -180,7 +180,7 @@
                     <img src="{{asset('/assets/imgs/modal/internation_modal3.jpg')}}" alt="">
                 </div>
                 <div class="content-modall">
-                    <h4>Language Assessment <br> &nbsp; </h4>
+                    <h4>Language Assessment  Test <br> &nbsp; </h4>
                 </div>
             </div></a>
           </div>

@@ -1421,7 +1421,7 @@
       setTimeout(function() {
         var myModal = new bootstrap.Modal(document.getElementById('exampleModal'));
         myModal.show();
-      }, 5000);
+      }, 1000);
     });
   </script>
 </main>
