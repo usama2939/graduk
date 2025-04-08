@@ -1416,13 +1416,13 @@
     </section> --}}
     
     
-<script>
+{{-- <script>
     document.addEventListener("DOMContentLoaded", function() {
       setTimeout(function() {
         var myModal = new bootstrap.Modal(document.getElementById('exampleModal'));
         myModal.show();
       }, 1000);
     });
-  </script>
+  </script> --}}
 </main>
 @endsection
