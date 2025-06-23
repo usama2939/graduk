@@ -155,15 +155,13 @@
                                 <div class="latest-contact-us-2-media-content-contact">
                                     <div class="latest-contact-us-2-media-content-contact-icon">
                                         <a href="contact">
-                                            <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M24.9512 19.0215L23.7793 23.9531C23.6328 24.6855 23.0469 25.1738 22.3145 25.1738C10.0098 25.125 0 15.1152 0 2.81055C0 2.07812 0.439453 1.49219 1.17188 1.3457L6.10352 0.173828C6.78711 0.0273438 7.51953 0.417969 7.8125 1.05273L10.1074 6.375C10.3516 7.00977 10.2051 7.74219 9.66797 8.13281L7.03125 10.2812C8.69141 13.6504 11.4258 16.3848 14.8438 18.0449L16.9922 15.4082C17.3828 14.9199 18.1152 14.7246 18.75 14.9688L24.0723 17.2637C24.707 17.6055 25.0977 18.3379 24.9512 19.0215Z" fill="#83CD20"/>
-                                            </svg>
+                                             <i class="fab fa-whatsapp"></i>
                                         </a>
                                     </div>
                                     <div class="latest-contact-us-2-media-content-contact-text">
-                                        <span>Requesting A Call:</span>
-                                        <a href="tel:6295550129">
-                                            <h6>(629) 555-0129</h6>
+                                        <span>Contact on WhatsApp:</span>
+                                        <a href="https://wa.me/447914438689" target="_blank">
+                                            <h6>+44 7914 438689</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -177,8 +175,8 @@
                                     </div>
                                     <div class="latest-contact-us-2-media-content-contact-text">
                                         <span>E-mail</span>
-                                        <a href="mailto:info.rrdevs@gmail.com">
-                                            <h6>info@example.com</h6>
+                                        <a href="mailto:info@graduk.com">
+                                            <h6>info@graduk.com</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -243,15 +241,13 @@
                                 <div class="latest-contact-us-2-media-content-contact">
                                     <div class="latest-contact-us-2-media-content-contact-icon">
                                         <a href="contact">
-                                            <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M24.9512 19.0215L23.7793 23.9531C23.6328 24.6855 23.0469 25.1738 22.3145 25.1738C10.0098 25.125 0 15.1152 0 2.81055C0 2.07812 0.439453 1.49219 1.17188 1.3457L6.10352 0.173828C6.78711 0.0273438 7.51953 0.417969 7.8125 1.05273L10.1074 6.375C10.3516 7.00977 10.2051 7.74219 9.66797 8.13281L7.03125 10.2812C8.69141 13.6504 11.4258 16.3848 14.8438 18.0449L16.9922 15.4082C17.3828 14.9199 18.1152 14.7246 18.75 14.9688L24.0723 17.2637C24.707 17.6055 25.0977 18.3379 24.9512 19.0215Z" fill="#83CD20"/>
-                                            </svg>
+                                             <i class="fab fa-whatsapp"></i>
                                         </a>
                                     </div>
                                     <div class="latest-contact-us-2-media-content-contact-text">
-                                        <span>Requesting A Call:</span>
-                                        <a href="tel:6295550129">
-                                            <h6>(629) 555-0129</h6>
+                                        <span>Contact on WhatsApp:</span>
+                                        <a href="https://wa.me/447914438689" target="_blank">
+                                            <h6>+44 7914 438689</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -265,8 +261,8 @@
                                     </div>
                                     <div class="latest-contact-us-2-media-content-contact-text">
                                         <span>E-mail</span>
-                                        <a href="mailto:info.rrdevs@gmail.com">
-                                            <h6>info@example.com</h6>
+                                        <a href="mailto:info@graduk.com">
+                                            <h6>info@graduk.com</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -331,15 +327,13 @@
                                 <div class="latest-contact-us-2-media-content-contact">
                                     <div class="latest-contact-us-2-media-content-contact-icon">
                                         <a href="contact">
-                                            <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M24.9512 19.0215L23.7793 23.9531C23.6328 24.6855 23.0469 25.1738 22.3145 25.1738C10.0098 25.125 0 15.1152 0 2.81055C0 2.07812 0.439453 1.49219 1.17188 1.3457L6.10352 0.173828C6.78711 0.0273438 7.51953 0.417969 7.8125 1.05273L10.1074 6.375C10.3516 7.00977 10.2051 7.74219 9.66797 8.13281L7.03125 10.2812C8.69141 13.6504 11.4258 16.3848 14.8438 18.0449L16.9922 15.4082C17.3828 14.9199 18.1152 14.7246 18.75 14.9688L24.0723 17.2637C24.707 17.6055 25.0977 18.3379 24.9512 19.0215Z" fill="#83CD20"/>
-                                            </svg>
+                                             <i class="fab fa-whatsapp"></i>
                                         </a>
                                     </div>
                                     <div class="latest-contact-us-2-media-content-contact-text">
-                                        <span>Requesting A Call:</span>
-                                        <a href="tel:6295550129">
-                                            <h6>(629) 555-0129</h6>
+                                        <span>Contact on WhatsApp:</span>
+                                        <a href="https://wa.me/447914438689" target="_blank">
+                                            <h6>+44 7914 438689</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -353,8 +347,8 @@
                                     </div>
                                     <div class="latest-contact-us-2-media-content-contact-text">
                                         <span>E-mail</span>
-                                        <a href="mailto:info.rrdevs@gmail.com">
-                                            <h6>info@example.com</h6>
+                                        <a href="mailto:info@graduk.com">
+                                            <h6>info@graduk.com</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -419,15 +413,13 @@
                                 <div class="latest-contact-us-2-media-content-contact">
                                     <div class="latest-contact-us-2-media-content-contact-icon">
                                         <a href="contact">
-                                            <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M24.9512 19.0215L23.7793 23.9531C23.6328 24.6855 23.0469 25.1738 22.3145 25.1738C10.0098 25.125 0 15.1152 0 2.81055C0 2.07812 0.439453 1.49219 1.17188 1.3457L6.10352 0.173828C6.78711 0.0273438 7.51953 0.417969 7.8125 1.05273L10.1074 6.375C10.3516 7.00977 10.2051 7.74219 9.66797 8.13281L7.03125 10.2812C8.69141 13.6504 11.4258 16.3848 14.8438 18.0449L16.9922 15.4082C17.3828 14.9199 18.1152 14.7246 18.75 14.9688L24.0723 17.2637C24.707 17.6055 25.0977 18.3379 24.9512 19.0215Z" fill="#83CD20"/>
-                                            </svg>
+                                             <i class="fab fa-whatsapp"></i>
                                         </a>
                                     </div>
                                     <div class="latest-contact-us-2-media-content-contact-text">
-                                        <span>Requesting A Call:</span>
-                                        <a href="tel:6295550129">
-                                            <h6>(629) 555-0129</h6>
+                                        <span>Contact on WhatsApp:</span>
+                                        <a href="https://wa.me/447914438689" target="_blank">
+                                            <h6>+44 7914 438689</h6>
                                         </a>
                                     </div>
                                 </div>
@@ -441,8 +433,8 @@
                                     </div>
                                     <div class="latest-contact-us-2-media-content-contact-text">
                                         <span>E-mail</span>
-                                        <a href="mailto:info.rrdevs@gmail.com">
-                                            <h6>info@example.com</h6>
+                                        <a href="mailto:info@graduk.com">
+                                            <h6>info@graduk.com</h6>
                                         </a>
                                     </div>
                                 </div>

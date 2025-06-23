@@ -1087,8 +1087,8 @@
                                         <i class="fa-solid fa-phone"></i>
                                     </div>
                                     <div class="contact-info__link-phone-text">
-                                        <p>Requesting A Call:</p>
-                                        <a href="tel:6295550129">(629) 555-0129</a>
+                                        <p>Contact on WhatsApp:</p>
+                                        <a href="https://wa.me/447914438689" target="_blank">+44 7914 438689</a>
                                     </div>
                                 </div>
                                 <div class="contact-info__link-phone mt-20">

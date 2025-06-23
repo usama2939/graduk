@@ -170,7 +170,7 @@
                                     </h6>
                                 <h2 class="section__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".3s">Gateway to Global Education & Employment</h2>
                             </div>
-                            <p class="choose-us__content-description wow fadeInLeft animated" data-wow-delay=".4s">Explore your options for studying and working abroad.</p>
+                            <p class="choose-us__content-description wow fadeInLeft animated" data-wow-delay=".4s">Explore your options for studying abroad.</p>
                             <div class="choose-us__content-wrapper mt-35">
                                 <div class="choose-us__content-wrapper-box wow fadeInLeft animated" data-wow-delay=".5s">
                                     <div class="choose-us__content-wrapper-box-title">
@@ -184,7 +184,7 @@
                                                 <path d="M12.1441 20.9755H17.8544C17.9631 20.9755 18.0674 20.9323 18.1443 20.8553C18.2212 20.7784 18.2645 20.6742 18.2645 20.5654V16.5353C18.2645 16.4266 18.2212 16.3223 18.1443 16.2454C18.0674 16.1685 17.9631 16.1252 17.8544 16.1252H17.0809L16.8302 14.9645C16.8104 14.8728 16.7598 14.7906 16.6868 14.7316C16.6138 14.6727 16.5228 14.6406 16.4289 14.6406H13.5695C13.4758 14.6406 13.385 14.6728 13.312 14.7316C13.2391 14.7904 13.1886 14.8725 13.1687 14.9641L12.918 16.1247H12.1445C12.0358 16.1248 11.9315 16.168 11.8546 16.2449C11.7777 16.3218 11.7344 16.4261 11.7344 16.5348V20.5654C11.7344 20.6741 11.7776 20.7783 11.8544 20.8552C11.9312 20.9321 12.0354 20.9754 12.1441 20.9755ZM12.5542 20.1552V18.6679H13.6323V18.7091C13.6323 18.8179 13.6756 18.9222 13.7525 18.9992C13.8294 19.0761 13.9337 19.1193 14.0425 19.1193C14.1513 19.1193 14.2556 19.0761 14.3325 18.9992C14.4094 18.9222 14.4527 18.8179 14.4527 18.7091V18.6679H15.5448V18.7091C15.5448 18.8179 15.5881 18.9222 15.665 18.9992C15.7419 19.0761 15.8462 19.1193 15.955 19.1193C16.0638 19.1193 16.1681 19.0761 16.245 18.9992C16.3219 18.9222 16.3652 18.8179 16.3652 18.7091V18.6679H17.4433V20.1552H12.5542ZM13.9007 15.4609H16.0975L16.2412 16.1247H13.757L13.9007 15.4609ZM16.7484 16.945H17.4442V17.8471H12.5542V16.9455L16.7484 16.945Z" fill="white"/>
                                             </svg>                                        
                                         </div>
-                                        <h3>Explore Visa & Work Permits</h3>
+                                        <h3>Explore Visa </h3>
                                     </div>
                                     <div class="choose-us__content-wrapper-box-list">
                                         <ul>
@@ -238,7 +238,7 @@
                                     </div>
                                     <div class="choose-us__content-wrapper-box-list">
                                         <ul>
-                                            <li><i class="fa-solid fa-check"></i> Gain valuable work experience with global internship programs.</li>
+                                            <li><i class="fa-solid fa-check"></i> Gain valuable experience with global internship programs.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -647,8 +647,8 @@
                                     <div class="bg-overlay"></div>
 
                                     <div class="project-three__single-content">
-                                        <h4>Working Visa</h4>
-                                        <p>Lorem Ipsum is simply dummy text the <br> printing and provide best visa ever</p>
+                                        {{-- <h4>Working Visa</h4>
+                                        <p>Lorem Ipsum is simply dummy text the <br> printing and provide best visa ever</p> --}}
         
                                         <div class="button">
                                             <a href="visa-details">Apply Now <i class="fa-solid fa-arrow-right"></i></a>
